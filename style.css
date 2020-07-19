@@ -3,7 +3,7 @@ body{
   background: url("images/nice-abstract.jpg");
   width: 800px;
 margin: auto;
-
+height:10px;
 padding: 20px 50px;
 } 
 /*headers styling*/
