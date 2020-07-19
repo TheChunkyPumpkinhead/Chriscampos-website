@@ -1,0 +1,28 @@
+/* background */
+body{
+  background: url("images/nice-abstract.jpg");
+} 
+/*headers styling*/
+
+/* paragraph styling */
+h1,h2,,p,a {
+  text-align: center;
+  
+}
+
+
+}
+
+
+
+
+
+}
+/* footer Style */
+a {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+}
+
+a:link    { color:crimson;  }
+a:hover   { color: green; }
