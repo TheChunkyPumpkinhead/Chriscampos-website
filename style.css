@@ -1,6 +1,10 @@
 /* background */
 body{
   background: url("images/nice-abstract.jpg");
+  width: 800px;
+margin: auto;
+
+padding: 20px 50px;
 } 
 /*headers styling*/
 
